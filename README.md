@@ -1,6 +1,6 @@
 <!-- PROFILE README FOR BELEMA7 -->
 
-<h1 align="center">Hey there 👋, I'm Belema</h1>
+<h1 align="center">Hey there 👋, I'm Nahom</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Passionate+Programmer;Full-Stack+Developer+in+progress;Lifelong+Learner+%26+Tech+Enthusiast;Solving+real-world+problems+through+code!" alt="Typing SVG" />
@@ -29,6 +29,48 @@ Currently, I’m sharpening my skills in **React** and **Node.js**, building ful
 - Learning **backend engineering** using Node.js and REST APIs  
 - Exploring **database design** and **system architecture**  
 - Practicing problem solving and clean code principles  
+
+---
+
+## 💼 Featured Projects
+Here are some of my favorite projects 👇
+
+### 🧮 [Student Management System](https://github.com/Belema7/Student-Management-System)
+A Java-based system with login, registration, and profile management features.  
+🔹 **Tech:** Java, OOP, File Handling, Packages  
+🔹 Focused on clean architecture and encapsulation.
+
+---
+
+### 💸 [Group Expense Splitter](https://github.com/Belema7/Group-Expense-Splitter)
+A React app for tracking shared expenses among friends or groups.  
+🔹 **Tech:** React, Context API, Firebase  
+🔹 Features login, dashboard, group management, and user profiles.
+
+---
+
+### 🌐 [Personal Portfolio Website](https://github.com/Belema7/Portfolio)
+A responsive portfolio built with React and Tailwind CSS.  
+🔹 **Tech:** React, Tailwind CSS, Framer Motion  
+🔹 Includes smooth animations, dark mode, and a contact form.
+
+---
+
+### 🧠 [Data Structures Practice](https://github.com/Belema7/Data-Structures)
+Collection of DSA problems and solutions written in Java.  
+🔹 **Tech:** Java  
+🔹 Covers arrays, linked lists, stacks, queues, trees, and graphs.
+
+---
+
+## 📚 My Learning Journey
+
+| 🕓 Year | 📘 Focus | 🚀 Progress |
+|:-------:|:---------|:------------|
+| **2023** | 🌱 *Started my Computer Science journey* | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| **2024** | 💻 *Learned HTML, CSS, JavaScript, and Java basics* | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| **2025** | ⚛️ *Building projects with React & Node.js* | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
+| **Next...** | ☁️ *Learn DevOps, Cloud, and contribute to open source* | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10% |
 
 ---
 
