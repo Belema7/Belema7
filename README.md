@@ -32,37 +32,6 @@ Currently, I’m sharpening my skills in **React** and **Node.js**, building ful
 
 ---
 
-## 💼 Featured Projects
-Here are some of my favorite projects 👇
-
-### 🧮 [Student Management System](https://github.com/Belema7/Student-Management-System)
-A Java-based system with login, registration, and profile management features.  
-🔹 **Tech:** Java, OOP, File Handling, Packages  
-🔹 Focused on clean architecture and encapsulation.
-
----
-
-### 💸 [Group Expense Splitter](https://github.com/Belema7/Group-Expense-Splitter)
-A React app for tracking shared expenses among friends or groups.  
-🔹 **Tech:** React, Context API, Firebase  
-🔹 Features login, dashboard, group management, and user profiles.
-
----
-
-### 🌐 [Personal Portfolio Website](https://github.com/Belema7/Portfolio)
-A responsive portfolio built with React and Tailwind CSS.  
-🔹 **Tech:** React, Tailwind CSS, Framer Motion  
-🔹 Includes smooth animations, dark mode, and a contact form.
-
----
-
-### 🧠 [Data Structures Practice](https://github.com/Belema7/Data-Structures)
-Collection of DSA problems and solutions written in Java.  
-🔹 **Tech:** Java  
-🔹 Covers arrays, linked lists, stacks, queues, trees, and graphs.
-
----
-
 ## 📚 My Learning Journey
 
 | 🕓 Year | 📘 Focus | 🚀 Progress |
