@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nahom (Belema7)
+# 👋 Hi, I'm Belema (Belema7)
 
 🎯 **Computer Science Student** | 💻 **Aspiring Full-Stack Developer**
 
