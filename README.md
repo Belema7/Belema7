@@ -1,6 +1,6 @@
 <!-- PROFILE README FOR BELEMA7 -->
 
-<h1 align="center">Hey there 👋, I'm Nahom</h1>
+<h1 align="center">Hey there 👋, I'm Belema</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Passionate+Programmer;Full-Stack+Developer+in+progress;Lifelong+Learner+%26+Tech+Enthusiast;Solving+real-world+problems+through+code!" alt="Typing SVG" />
