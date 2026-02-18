@@ -68,4 +68,4 @@ Currently, I’m sharpening my skills in **React** and **Node.js**, building ful
   <img src="https://komarev.com/ghpvc/?username=Belema7&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<p align="center">⭐️ *"Keep learning, keep building, and keep inspiring others."* — Nahom</p>
+<p align="center">⭐️ *"Keep learning, keep building, and keep inspiring others."* — Belema</p>
