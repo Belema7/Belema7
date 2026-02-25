@@ -19,7 +19,7 @@ Currently, I’m sharpening my skills in **React** and **Node.js**, building ful
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,python,html,css,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,next,react,mongodb,html,css,git,figma,vscode" />
 </p>
 
 ---
