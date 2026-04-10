@@ -19,11 +19,24 @@ My work centers on transforming ideas and designs into clean, reusable interface
 
 I primarily work with **React, Next.js, TypeScript, and modern UI tooling**, with growing experience across full product development workflows.
 
+
 ---
 
 ## Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,next,react,mongodb,html,css,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,postgres,prisma,git,figma,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logoColor=white" alt="shadcn/ui" />
+</p>
+
+<p align="center">
+  <strong>Core:</strong> TypeScript, JavaScript, React, Next.js <br/>
+  <strong>UI:</strong> Tailwind CSS, shadcn/ui, Figma <br/>
+  <strong>Data:</strong> PostgreSQL, Prisma <br/>
+  <strong>Tools:</strong> Git, VS Code
 </p>
 
 ---
