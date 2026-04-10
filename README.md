@@ -54,9 +54,9 @@ I primarily work with **React, Next.js, TypeScript, and modern UI tooling**, wit
 
 | Year | Focus | Progress |
 |:----:|:------|:---------|
-| **2023** | Started software development journey | Strong foundation |
-| **2024** | Built core skills in HTML, CSS, JavaScript | Advanced |
-| **2025** | Developed real-world frontend projects with React & Next.js | Professional level |
+| **2024** | Started software development journey | Strong foundation |
+| **2025** | Built core skills in HTML, CSS, JavaScript | Advanced |
+| **2026** | Developed real-world frontend projects with React & Next.js | Professional level |
 | **Next** | Scaling toward full product engineering | In progress |
 
 ---
